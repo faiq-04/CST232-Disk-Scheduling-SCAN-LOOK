@@ -40,7 +40,7 @@ The goal is to analyze and compare the **performance (seek time)** of both algor
 ## 🔄 How to Run
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/OS-Disk-Scheduling-SCAN-LOOK.git
+git clone https://github.com/faiq-04/CST232-Disk-Scheduling-SCAN-LOOK.git
 ```
 2. Open the `.ipynb` files in **Jupyter Notebook** or **VS Code with Python extension**.
 3. Run the cells to execute the simulation and see the visualizations.
