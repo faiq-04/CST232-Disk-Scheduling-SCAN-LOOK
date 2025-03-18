@@ -47,12 +47,9 @@ git clone https://github.com/your-username/OS-Disk-Scheduling-SCAN-LOOK.git
 
 ---
 
-## 📌 Authors
+## 📌 Author
 - Faiq Ahmed Shaikh
-- Syeda Laiba Faraz
-- Yan Keer
-- Md Fahim Anam Sakib
-
+- Laiba Faraz
 ---
 
 ## 📑 Note
